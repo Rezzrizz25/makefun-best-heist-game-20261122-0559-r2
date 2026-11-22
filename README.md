@@ -2,7 +2,7 @@
 
 [![Bounty](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 [![Rank](https://make.fun/badge/best-heist-game-20261122-0559/Rezzrizz25/makefun-best-heist-game-20261122-0559-r2/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![Reward](https://make.fun/badge/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![Reward](https://make.fun/badge/best-heist-game-20261122-0559/Rezzrizz25/makefun-best-heist-game-20261122-0559-r2/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 A top-down stealth heist in plain canvas 2D — no libraries, no build step, no network requests. Built for the [make.fun bounty "Make the best heist game"](https://make.fun/bounty/best-heist-game-20261122-0559).
 
