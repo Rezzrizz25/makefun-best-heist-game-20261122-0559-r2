@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Midnight Vault</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  html, body { margin: 0; padding: 0; background: #0b0d12; }
+  body { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+  #wrap { line-height: 0; }
+  canvas { width: 1280px; height: 720px; max-width: 100vw; max-height: 100vh; background: #0b0d12; }
+  #game-errors, #game-status { position: absolute; left: -9999px; top: -9999px; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+</div>
+<div id="game-errors">errors=0</div>
+<div id="game-status">status=title</div>
+<script src="levels.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
